@@ -1,5 +1,5 @@
 
-############## Problem Set IO Productivity estimation ###############
+############## Problem Set IO Production Function estimation ###############
 
 ############ Agustina Colonna UZH October 2020 #############
 
